@@ -1,0 +1,27 @@
+{
+  "name": "my_membership",
+  "version": "1.0.0",
+  "description": "This is my membership module",
+  "main": "app.js",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "mocha" : "~5.2.0",
+    "should": "~13.2.1",
+    "express" : "@4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_project"
+  ],
+  "author": "'Dhanashri'",
+  "license": "MIT"
+}
